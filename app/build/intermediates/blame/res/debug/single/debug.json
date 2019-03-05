@@ -368,12 +368,12 @@
         "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\b32c9921a3f645f8bad4fa3cfb4421fc\\res\\drawable\\design_snackbar_background.xml"
     },
     {
-        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
-        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\8e8731d7075c909239a36af27e83c0a8\\res\\layout\\notification_template_big_media_custom.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_refresh.png.flat",
         "source": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_big_media_custom.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\support-media-compat-27.1.1.aar\\8e8731d7075c909239a36af27e83c0a8\\res\\layout\\notification_template_big_media_custom.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
@@ -392,12 +392,12 @@
         "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\b32c9921a3f645f8bad4fa3cfb4421fc\\res\\drawable-hdpi-v4\\design_ic_visibility_off.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
-        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\b32c9921a3f645f8bad4fa3cfb4421fc\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
-    },
-    {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_refresh.png.flat",
         "source": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_refresh.png"
+    },
+    {
+        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\anim-v21_design_bottom_sheet_slide_out.xml.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\b32c9921a3f645f8bad4fa3cfb4421fc\\res\\anim-v21\\design_bottom_sheet_slide_out.xml"
     },
     {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
@@ -612,16 +612,16 @@
         "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-27.1.1.aar\\d67ba0212cc2106fff55071218df0cf6\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
-        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
     },
     {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
         "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
     },
     {
-        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
-        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+        "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
     },
     {
         "merged": "C:\\Users\\Carlos\\AndroidStudioProjects\\MaterialMe-Starter\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
