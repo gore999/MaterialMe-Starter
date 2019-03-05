@@ -6,12 +6,15 @@ INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\m
 INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a18cf01ac6950f70d26085ba4455d705\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a43313c2fd74f6007d813701f4ff9c1e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\60bc3561fd7a75ea163a3a6d386a9368\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:2:1-12:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c64205ade4beeaa07b25412086ecd47d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2a38a7c7e863d853e1e99bd31b91dbd6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\77ea6ba73a60898bf003ea1bd22c4292\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b60eb8e73884bf6e8320d885901b4d4\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\531a37d839f9c938428c27d601c30bde\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\555a38092b80a55144c6d3cffc04005e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c8d32b0702c07a82e5ab67f74007803\AndroidManifest.xml:17:1-22:12
@@ -35,6 +38,10 @@ INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\m
 		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:11-69
 application
 ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:20:5-33:19
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:10:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:9:5-20
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:9:5-20
 	android:supportsRtl
 		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:24:9-35
 	android:label
@@ -67,6 +74,10 @@ MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\ca
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a18cf01ac6950f70d26085ba4455d705\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a43313c2fd74f6007d813701f4ff9c1e\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a43313c2fd74f6007d813701f4ff9c1e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\60bc3561fd7a75ea163a3a6d386a9368\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\60bc3561fd7a75ea163a3a6d386a9368\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:6:5-8:41
+MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:6:5-8:41
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c64205ade4beeaa07b25412086ecd47d\AndroidManifest.xml:20:5-44
@@ -79,6 +90,8 @@ MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b60eb8e73884bf6e8320d885901b4d4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:20:5-44
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:5:5-7:41
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\531a37d839f9c938428c27d601c30bde\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\531a37d839f9c938428c27d601c30bde\AndroidManifest.xml:20:5-44
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\555a38092b80a55144c6d3cffc04005e\AndroidManifest.xml:20:5-44
