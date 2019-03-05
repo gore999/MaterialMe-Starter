@@ -21,8 +21,12 @@ import android.os.Bundle;
 import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.LinearLayoutManager;
 import android.support.v7.widget.RecyclerView;
+import android.support.v7.widget.helper.ItemTouchHelper;
+import android.view.View;
 
 import java.util.ArrayList;
+import java.util.Collection;
+import java.util.Collections;
 
 /***
  * Main Activity for the Material Me app, a mock sports news application
@@ -55,6 +59,25 @@ public class MainActivity extends AppCompatActivity {
 
         // Get the data.
         initializeData();
+        ItemTouchHelper helper=new ItemTouchHelper(new ItemTouchHelper.SimpleCallback(ItemTouchHelper.UP|ItemTouchHelper.DOWN|ItemTouchHelper.LEFT|ItemTouchHelper.RIGHT,ItemTouchHelper.LEFT|ItemTouchHelper.RIGHT) {
+            @Override
+            public boolean onMove(RecyclerView recyclerView, RecyclerView.ViewHolder viewHolder, RecyclerView.ViewHolder target) {
+                int from=viewHolder.getAdapterPosition();//Posicion del view que se mueve.
+                int to=target.getAdapterPosition();//Posicion del view al que se mueve.
+                Collections.swap(mSportsData,from,to);//intercambiar.
+                mAdapter.notifyItemMoved(from,to);
+                return true;
+            }
+
+            @Override
+            public void onSwiped(RecyclerView.ViewHolder viewHolder, int direction) {
+                //HAy que borrar el elemento de dos sitios, de los datos y del RecyclerView (a traves del adapter.
+                mSportsData.remove(viewHolder.getAdapterPosition());//Eliminar el elemento de la lista (sabemos la posicion en la lista por la posicion del viewholder).
+                mAdapter.notifyItemRemoved(viewHolder.getAdapterPosition());//Hacer que el adapter elmine el elemento.
+            }
+        });
+        //Hacer que el helper (ItemTouchHelper) gestione a nuestro recyclerview. Ay que vincularlos.
+        helper.attachToRecyclerView(mRecyclerView);
     }
 
     /**
@@ -81,4 +104,7 @@ public class MainActivity extends AppCompatActivity {
         mAdapter.notifyDataSetChanged();
     }
 
+    public void resetSports(View view) {
+        initializeData();
+    }
 }
