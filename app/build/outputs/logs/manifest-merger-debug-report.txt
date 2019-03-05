@@ -1,75 +1,90 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a771e40450425de782ca626f967fcb7\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:design:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b32c9921a3f645f8bad4fa3cfb4421fc\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a18cf01ac6950f70d26085ba4455d705\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a43313c2fd74f6007d813701f4ff9c1e\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\60bc3561fd7a75ea163a3a6d386a9368\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a89335df74af972cd36bfaa562348390\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c64205ade4beeaa07b25412086ecd47d\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-ui:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-core-ui-27.1.1.aar\2a38a7c7e863d853e1e99bd31b91dbd6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\77ea6ba73a60898bf003ea1bd22c4292\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b60eb8e73884bf6e8320d885901b4d4\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ed1bb4aed9b398eb5d4f3d8f8250905f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8e8731d7075c909239a36af27e83c0a8\AndroidManifest.xml:17:1-22:12
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:17:1-22:12
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:2:1-11:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.0.aar\531a37d839f9c938428c27d601c30bde\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:viewmodel:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.0.aar\555a38092b80a55144c6d3cffc04005e\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:runtime:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\8c8d32b0702c07a82e5ab67f74007803\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\runtime-1.1.0.aar\2e1e3cae51c96928ea749c0961d95268\AndroidManifest.xml:17:1-22:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
-INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
+INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
 	package
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:18:5-45
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:5-45
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:1-35:12
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:1-35:12
 		INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 	xmlns:android
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:17:11-69
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:16:11-69
 application
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:20:5-33:19
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:19:5-33:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a771e40450425de782ca626f967fcb7\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a771e40450425de782ca626f967fcb7\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:10:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:9:5-20
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:9:5-20
 	android:supportsRtl
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:24:9-35
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:23:9-35
 	android:label
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:23:9-41
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:22:9-41
 	android:icon
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:22:9-43
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:21:9-43
 	android:allowBackup
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:21:9-35
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:20:9-35
 	android:theme
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:25:9-40
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:24:9-40
 activity#com.example.android.materialme.MainActivity
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:26:9-32:20
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:25:9-31:20
 	android:name
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:26:19-77
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:25:19-47
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:27:13-31:29
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:26:13-30:29
 action#android.intent.action.MAIN
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:28:17-69
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:27:17-69
 	android:name
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:28:25-66
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:27:25-66
 category#android.intent.category.LAUNCHER
-ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:30:17-77
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:29:17-77
 	android:name
-		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:30:27-74
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:29:27-74
+activity#com.example.android.materialme.DetailActivity
+ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:32:9-61
+	android:name
+		ADDED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml:32:19-49
 uses-sdk
 INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
 INJECTED from C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a771e40450425de782ca626f967fcb7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.3.aar\6a771e40450425de782ca626f967fcb7\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b32c9921a3f645f8bad4fa3cfb4421fc\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\design-27.1.1.aar\b32c9921a3f645f8bad4fa3cfb4421fc\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a18cf01ac6950f70d26085ba4455d705\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:appcompat-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\appcompat-v7-27.1.1.aar\a18cf01ac6950f70d26085ba4455d705\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:recyclerview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-27.1.1.aar\a43313c2fd74f6007d813701f4ff9c1e\AndroidManifest.xml:20:5-44
@@ -78,6 +93,8 @@ MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\cac
 MERGED from [com.android.support:cardview-v7:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\cardview-v7-27.1.1.aar\60bc3561fd7a75ea163a3a6d386a9368\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:6:5-8:41
 MERGED from [com.github.bumptech.glide:glide:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\glide-4.9.0.aar\dd1c5296df513885eed9acc633a16b82\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a89335df74af972cd36bfaa562348390\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-v4:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-v4-27.1.1.aar\a89335df74af972cd36bfaa562348390\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-fragment:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-fragment-27.1.1.aar\49ba36b5bdc8890684446e9c587000ee\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:animated-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-27.1.1.aar\c64205ade4beeaa07b25412086ecd47d\AndroidManifest.xml:20:5-44
@@ -88,6 +105,10 @@ MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carlos\.gra
 MERGED from [com.android.support:support-core-utils:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-core-utils-27.1.1.aar\77ea6ba73a60898bf003ea1bd22c4292\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b60eb8e73884bf6e8320d885901b4d4\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-vector-drawable:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-27.1.1.aar\4b60eb8e73884bf6e8320d885901b4d4\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ed1bb4aed9b398eb5d4f3d8f8250905f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\transition-27.1.1.aar\ed1bb4aed9b398eb5d4f3d8f8250905f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8e8731d7075c909239a36af27e83c0a8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-media-compat-27.1.1.aar\8e8731d7075c909239a36af27e83c0a8\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:20:5-44
 MERGED from [com.android.support:support-compat:27.1.1] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\support-compat-27.1.1.aar\d67ba0212cc2106fff55071218df0cf6\AndroidManifest.xml:20:5-44
 MERGED from [com.github.bumptech.glide:gifdecoder:4.9.0] C:\Users\Carlos\.gradle\caches\transforms-1\files-1.1\gifdecoder-4.9.0.aar\26fa552fb8fac2588a2b0eb4e9070c28\AndroidManifest.xml:5:5-7:41

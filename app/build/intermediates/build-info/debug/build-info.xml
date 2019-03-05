@@ -5,80 +5,55 @@
     build-mode="COLD"
     density="xxhdpi"
     format="10"
-    ir-eligibility="CLASS_ADDED"
     plugin-version="3.1.4"
-    timestamp="1551727241286"
+    timestamp="1551797092503"
     token="-1840116905945422505"
     verifier="COLD_SWAP_REQUESTED" >
 
     <task
         name="javac"
-        duration="1489" />
+        duration="0" />
     <task
         name="instant-run-dex"
         duration="0" />
     <task
         name="instant-run-transform"
-        duration="75" />
+        duration="0" />
     <task
         name="verifier"
-        duration="133" />
+        duration="0" />
 
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
-        type="SPLIT" />
-    <artifact
-        location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
-        type="SPLIT" />
     <artifact
         location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
         type="SPLIT_MAIN" />
 
     <build
         build-mode="FULL"
-        timestamp="1551724953204"
-        verifier="FULL_BUILD_REQUESTED" >
+        timestamp="1551794361192"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_6.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_5.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            type="SPLIT" />
+        <artifact
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_1.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
@@ -96,32 +71,34 @@
     <build
         build-mode="COLD"
         ir-eligibility="CLASS_ADDED"
-        timestamp="1551727241286"
+        timestamp="1551795655582"
         verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\dep\dependencies.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
-            type="SPLIT" />
-        <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
             type="SPLIT" />
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_7.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_0.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_2.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_4.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_8.apk"
             type="SPLIT" />
         <artifact
-            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_9.apk"
+            location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\split-apk\debug\slices\slice_3.apk"
             type="SPLIT" />
+    </build>
+    <build
+        build-mode="COLD"
+        timestamp="1551797092503"
+        verifier="COLD_SWAP_REQUESTED" >
         <artifact
             location="C:\Users\Carlos\AndroidStudioProjects\MaterialMe-Starter\app\build\intermediates\instant-run-apk\debug\app-debug.apk"
             type="SPLIT_MAIN" />

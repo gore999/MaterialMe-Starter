@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent">
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context="com.example.android.materialme.DetailActivity">
+    <TextView
+        android:id="@+id/title_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBottom="@id/sportsImage_detail"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark"
+        android:padding="8dp"
+        android:text="@string/title_placeholder" />
+
+    <TextView
+        android:id="@+id/newsTitle_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/sportsImage_detail"
+        android:textColor="?android:textColorSecondary"
+        android:padding="8dp"
+        android:text="@string/news_placeholder" />
+
+    <TextView
+        android:id="@+id/subTitle_detail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/newsTitle_detail"
+
+        android:padding="8dp"
+        android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum. Texto de pruebas para ver si funciona el hacer click sobre un ViewHolder y que nos redirija a una nueva activity conteniendo informacion sobre el deporte en cuestion" />
+    <ImageView
+        android:id="@+id/sportsImage_detail"
+        android:adjustViewBounds="true"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+</RelativeLayout>
+</ScrollView>
