@@ -23,9 +23,12 @@
                 {
                     "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\design-27.1.1.aar\\b32c9921a3f645f8bad4fa3cfb4421fc\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
                     },
                     "to": {
                         "startLines": "7",
@@ -39,11 +42,6 @@
                 {
                     "source": "C:\\Users\\Carlos\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-27.1.1.aar\\a18cf01ac6950f70d26085ba4455d705\\res\\values-land\\values-land.xml",
                     "from": {
-                        "startLines": "-1,-1,-1,-1",
-                        "startColumns": "-1,-1,-1,-1",
-                        "startOffsets": "-1,-1,-1,-1"
-                    },
-                    "to": {
                         "startLines": "2,3,4,5",
                         "startColumns": "4,4,4,4",
                         "startOffsets": "55,125,189,260",
